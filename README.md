@@ -54,3 +54,5 @@ Alongside Insight Software, my professional work includes market research, evalu
 ---
 
 <div align="center"><sub>Practical tools, guided by research and improved through testing.</sub></div>
+
+- **Support:** [info@insight-ye.com](mailto:info@insight-ye.com)
