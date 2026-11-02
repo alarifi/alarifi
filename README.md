@@ -1,73 +1,56 @@
+<div align="center">
+
 # Hamoud Al-Arifi
 
-### Business Development & Market Research Consultant | Founder of Insight Software
+### Business Development & Market Research Consultant · Founder of Insight Software
 
-**Research-driven thinking. Practical software. Real-world solutions.**
+**Research-driven thinking · Practical software · Real-world solutions**
 
-I am a business development and market research consultant with more than 25 years of professional experience in research, evaluation, market analysis, and strategic advisory services.
+[![Explore Insight Software](https://img.shields.io/badge/Explore-Insight%20Software-087F87?style=for-the-badge)](https://software.insight-ye.com/software)
+[![GitHub Projects](https://img.shields.io/badge/Explore-GitHub%20Projects-243B53?style=for-the-badge&logo=github)](https://github.com/alarifi?tab=repositories)
 
-Alongside my consulting work, I lead the development of **Insight Software**, a growing collection of practical desktop applications and productivity utilities designed to make everyday computing simpler and more efficient.
+</div>
 
-My work brings together two complementary areas: understanding real-world needs through research and translating those needs into useful digital solutions.
+## About Me
 
----
+I bring **25+ years of experience** in business development, market research, evaluation, and strategic advisory work. I also lead **Insight Software**, a growing collection of practical Windows utilities and productivity tools.
 
-## Insight Software
+My approach connects real-world problem discovery with thoughtful product design, implementation, and testing.
 
-**Practical tools for smarter computing.**
+## Featured Insight Software
 
-Insight Software focuses on desktop productivity, file management, system utilities, multimedia, and data protection.
+| Product | What it helps you do | Source |
+|:--|:--|:--|
+| **Insight AutoPower** | Schedule Windows power operations and automation | [View project](https://github.com/alarifi/InsightAutoPower) |
+| **Insight Similar Folder Finder** | Find and manage similar or duplicate files and folders | [View project](https://github.com/alarifi/insight-similar-folder-finder) |
+| **Insight Player** | Play media and work with multimedia tools | [View project](https://github.com/alarifi/Insight-Player) |
+| **Insight Cleaner** | Use Windows cleanup and maintenance utilities | [View project](https://github.com/alarifi/insight-cleanner) |
+| **Insight SpeedFlow** | Explore performance and system utilities | [View project](https://github.com/alarifi/insight-speedflow) |
+| **Insight Sync** | Work with file synchronization tools | [View project](https://github.com/alarifi/insight-sync) |
 
-| Software | Purpose |
-|---|---|
-| [Insight AutoPower](https://github.com/alarifi/InsightAutoPower) | Windows power automation and scheduling |
-| [Insight Similar Folder Finder](https://github.com/alarifi/insight-similar-folder-finder) | Find and manage similar or duplicate folders and files |
-| [Insight Player](https://github.com/alarifi/Insight-Player) | Media playback and multimedia utilities |
-| [Insight Cleaner](https://github.com/alarifi/insight-cleanner) | System cleaning and maintenance utilities |
-| [Insight SpeedFlow](https://github.com/alarifi/insight-speedflow) | System and performance utilities |
-| [Insight Sync](https://github.com/alarifi/insight-sync) | File synchronization tools |
+> **Full software catalog:** [software.insight-ye.com/software](https://software.insight-ye.com/software)
 
-**Explore the software catalog:**
+## Areas of Expertise
 
-https://software.insight-ye.com/software
+**Research & consulting:** Business development · Market assessments · Feasibility studies · Monitoring, evaluation & learning · Strategic planning
 
----
+**Software & product work:** Product requirements · Windows desktop utilities · User experience · Quality assurance · Iterative improvement
 
-## Professional Expertise
+## How I Work
 
-- Business Development & Market Research
-- Market Assessments & Feasibility Studies
-- Monitoring, Evaluation & Learning
-- Strategic Planning & Consulting
-- Software Product Development
-- Windows Desktop Applications
-- Product Design & Quality Assurance
-- Research-Informed Digital Solutions
+**Understand the need → Define requirements → Build the solution → Test results → Improve continuously**
 
----
+I value useful functionality, clear interfaces, reliable behavior, and evidence-based decisions.
 
-## My Approach
+## Insight Research & Consulting
 
-**Understand the problem → Define the requirements → Build the solution → Test the results → Improve continuously.**
-
-I believe useful software begins with a clear understanding of the people who will use it.
-
-My focus is on practical functionality, intuitive user experiences, product reliability, and continuous improvement.
-
----
-
-## Research & Consulting
-
-Through **INSIGHT Research & Consulting**, I work on research, evaluation, strategic advisory, and evidence-based business and development solutions.
-
-This background informs my software development approach: identify the need, analyze the constraints, design carefully, and validate the outcome.
-
----
+Alongside Insight Software, my professional work includes market research, evaluation, strategic advisory services, and practical business and development solutions.
 
 ## Connect
 
-**GitHub:** https://github.com/alarifi
+- **Software catalog:** https://software.insight-ye.com/software
+- **GitHub projects:** https://github.com/alarifi?tab=repositories
 
-**Insight Software Hub:** https://software.insight-ye.com/software
+---
 
-*Building practical tools. Improving them through evidence, testing, and experience.*
+<div align="center"><sub>Practical tools, guided by research and improved through testing.</sub></div>
